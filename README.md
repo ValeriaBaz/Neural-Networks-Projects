@@ -1,6 +1,5 @@
-# Neural-Networks-Projects
 
-# 🧠 Proyectos de Redes Neuronales / Neural Network Projects
+#  Proyectos de Redes Neuronales / Neural Network Projects
 
 Este repositorio reúne distintos proyectos desarrollados en Google Colab relacionados con redes neuronales y aprendizaje profundo. Incluye implementaciones desde modelos simples hasta arquitecturas más complejas aplicadas a diferentes áreas.
 
